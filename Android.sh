@@ -1,6 +1,6 @@
 # Adjust the following variables as necessary
 REMOTE=origin
-BRANCH=android11
+BRANCH=bramble11
 BATCH_SIZE=500
 
 # check if the branch exists on the remote
